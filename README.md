@@ -32,4 +32,4 @@ Interested in biotechnology, software development, database (Data Science), web 
 
 ## Stats
 [![Jonathan Magliano Github Stats](https://github-readme-stats.vercel.app/api?username=jonathanmagliano&show_icons=true&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&hide=html,css&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
