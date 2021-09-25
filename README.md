@@ -25,13 +25,16 @@ I started on computers around 2003-2004 at a lan house. I was in that range betw
 The values of entrepreneurial, proactive and uncomfortable by state of stagnation are notorious personal characteristics. Self-taught, resilient and determined.
 Interested in biotechnology, software development, database (Data Science), web development, sustainability and related areas.
 
-:bulb: Would you like to connect to me? Come on!
-
 [![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/jonathanmagliano)](https://linkedin.com/in/jonathanmagliano) 
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="John-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="John-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="John-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="John-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+</div>
 
-## Stats
-[![Jonathan Magliano Github Stats](https://github-readme-stats.vercel.app/api?username=jonathanmagliano&show_icons=true&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
+##
+[![Jonathan Magliano Github Stats](https://github-readme-stats.vercel.app/api?username=jonathanmagliano&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&langs_count=7&theme=dracula)](https://github.com/jonathanmagliano/jonathanmagliano)
