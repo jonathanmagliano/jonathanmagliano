@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hello, World! I'm Jonathan.
 
 Who's Jonathan?
-Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... :books: I'm padawan in Python, R, JavaScript and Java.
+Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... :books: I'm padawan in Java and Python.
 I started on computers around 2003-2004 at a lan house. I was in that range between 7 and 8 years old.
 🤔🔭 I'm very curious. I really like the idea of being in a constant process of evolution personal and professional.
 
