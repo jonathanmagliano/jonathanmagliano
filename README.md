@@ -43,6 +43,6 @@ Interested in biotechnology, software development, database, data science, web d
 ##
 <div>
   <a href="https://github.com/jonathanmagliano/jonathanmagliano">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jonathanmagliano&show_icons=true&include_all_commits=false&count_private=true&theme=radical"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanmagliano&show_icons=true&include_all_commits=false&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&langs_count=7&theme=radical"/>
 </div>
