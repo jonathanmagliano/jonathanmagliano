@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 ## Hello, World! I'm Jonathan.
 
 Who's Jonathan?
-Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... :books: I'm padawan in Java and Python.
-I started on computers around 2003-2004 at a lan house. I was in that range between 7 and 8 years old.
+Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I started in the world of computers around 2003-2004 (Lan house). I was in that range between 7 and 8 years old.
 🤔🔭 I'm very curious. I really like the idea of being in a constant process of evolution personal and professional.
 
-The values of entrepreneurial, proactive and uncomfortable by state of stagnation are notorious personal characteristics. Self-taught, resilient and determined.
-Interested in biotechnology, software development, database, data science, web development, sustainability and related areas.
+Interested in biotechnology, software development, database, data science, web development and sustainability.
 
 [![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
 <div style="display: inline_block"><br>
