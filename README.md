@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Hello, World! I'm Jonathan.
 
-Who's Jonathan?
-Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I started in the world of computers around 2003-2004 (Lan house). I was in that range between 7 and 8 years old.
-🤔🔭 I'm very curious. I really like the idea of being in a constant process of evolution personal and professional.
+Who's John?
+Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I started in the world of computers around 2003-2004 (Lan house). I was in that range between 7 and 8 years old. 🤔🔭
+I really like the idea of being in a constant process of evolution personal and professional.
 
 Interested in biotechnology, software development, database, data science, web development and sustainability.
 
