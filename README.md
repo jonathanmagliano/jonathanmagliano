@@ -21,8 +21,6 @@ Who's John?
 Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I started in the world of computers around 2003-2004 (Lan house). I was in that range between 7 and 8 years old. 🤔🔭
 I really like the idea of being in a constant process of evolution personal and professional.
 
-Interested in biotechnology, software development, database, data science, web development and sustainability.
-
 [![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
 <div style="display: inline_block"><br>
   <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
