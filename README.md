@@ -36,9 +36,10 @@ I really like the idea of being in a constant process of evolution personal and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&langs_count=7&theme=radical)](https://github.com/jonathanmagliano/jonathanmagliano)
 -->
 
-##
+<!-- ##
 <div>
   <a href="https://github.com/jonathanmagliano/jonathanmagliano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanmagliano&show_icons=true&include_all_commits=false&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmagliano&show_icons=true&layout=compact&langs_count=7&theme=radical"/>
 </div>
+-->
