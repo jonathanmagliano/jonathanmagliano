@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 ## Hello, World! I'm Jonathan.
 
 Who's John?
-Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I started in the world of computers around 2003-2004 (Lan house). I was in that range between 7 and 8 years old. 🤔🔭
+Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I've been immersed in the world of technology since around 2003-2004 (Lan house). I was between 7 and 8 years old. 🤔🔭
 I really like the idea of being in a constant process of evolution personal and professional.
 
 [![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
 <div style="display: inline_block"><br>
-  <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="John-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="John-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="John-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="John-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="John-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="John-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <!-- ##
