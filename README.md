@@ -21,7 +21,8 @@ Who's John?
 Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I've been immersed in the world of technology since around 2003-2004 (Lan house). I was between 7 and 8 years old. 🤔🔭
 I really like the idea of being in a constant process of evolution personal and professional.
 
-[![Github Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
+[![Github Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-white?style=for-the-badge&logo=upwork&logoColor=success&link=https://upwork.com/ab/flservices/workwith/johntor)](https://upwork.com/ab/flservices/workwith/johntor)
 <div style="display: inline_block"><br>
   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
