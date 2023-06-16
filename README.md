@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="50%" height="50%" src="https://gist.github.com/jonathanmagliano/2ec9ec8086e0d277f6b4bfd44755f12f/raw/1df1f763cedfc9c8b35cfcdcacbe7efb732e0765/code.gif" alt="codelife-lifecode">
 
-## Hello, World! I'm Jonathan!
+## Hello, World! I'm Jonathan.
 
 Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I've been immersed in the world of technology since around 2003-2004 (Lan house). I was between 7 and 8 years old. 🤔🔭
 I really like the idea of being in a constant process of evolution personal and professional.
