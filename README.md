@@ -21,6 +21,7 @@ Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I've been immers
 I really like the idea of being in a constant process of evolution personal and professional.
 <br></br>
 
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://kaggle.com/jonathanmagliano)](https://kaggle.com/jonathanmagliano)
 [![Github Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jonathanmagliano)](https://github.com/jonathanmagliano)
 [![Upwork Badge](https://img.shields.io/badge/Upwork-white?style=for-the-badge&logo=upwork&logoColor=success&link=https://upwork.com/ab/flservices/workwith/johntor)](https://upwork.com/ab/flservices/workwith/johntor)
 <br>
