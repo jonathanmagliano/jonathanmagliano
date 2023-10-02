@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 
 <img align="right" width="50%" height="50%" src="https://gist.github.com/jonathanmagliano/2ec9ec8086e0d277f6b4bfd44755f12f/raw/1df1f763cedfc9c8b35cfcdcacbe7efb732e0765/code.gif" alt="codelife-lifecode">
 
-## Hello, World! I'm Jonathan.
+## Hello, World!👋
 
-Carioca, Rio de Janeiro, Football, Beach, you know? Oh, also... I've been immersed in the world of technology since around 2003-2004 (Lan house). I was between 7 and 8 years old. 🤔🔭
-I really like the idea of being in a constant process of evolution personal and professional.
+My name is Jonathan. I'm a Data Scientist & Data Analyst & Software Developer.
+
+I'm from Rio de Janeiro. I constantly strive to improve myself every day and on this journey I enjoy sharing ideas and knowledge. I like helping people, friends and communities, and I try to do this as much as possible.
+I really appreciate the concept of being in a constant process of personal and professional evolution. 🤔🔭
+
+I'm interested in biotechnology, software development, data science, artificial intelligence, sustainability and related fields.
 <br></br>
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://kaggle.com/jonathanmagliano)](https://kaggle.com/jonathanmagliano)
