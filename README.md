@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="50%" height="50%" src="https://gist.github.com/jonathanmagliano/2ec9ec8086e0d277f6b4bfd44755f12f/raw/1df1f763cedfc9c8b35cfcdcacbe7efb732e0765/code.gif" alt="codelife-lifecode">
+<img align="right" width="50%" height="50%" src="./code.gif" alt="codelife-lifecode">
 
 ## Hello, World!👋
 
@@ -31,9 +31,9 @@ I'm interested in biotechnology, software development, data science, artificial 
 <br>
 <div style="display: inline_block">
   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="John-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="John-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="John-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="John-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
 </br>
@@ -41,7 +41,7 @@ I'm interested in biotechnology, software development, data science, artificial 
   <img align="center" alt="John-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="John-Ruby-on-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="John-AWS" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/aws.svg">
-  <img align="center" alt="John-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="John-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 </br>
 
