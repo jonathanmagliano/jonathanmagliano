@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## Hello, World!👋
 
-Jonathan
+Jonathan<br/>
 Data Scientist | Data Analyst | Software Developer
 
 Interested in the intersection of biotechnology, data science, artificial intelligence, and software development.
 
-I enjoy exploring complex systems, transforming data into insights, and building practical solutions through scientific thinking and technology.
+I enjoy exploring complex systems, transforming data into insights<br/> and building practical solutions through scientific thinking<br/> and technology.
 
 Always learning, experimenting, and sharing knowledge.
 <br></br>
