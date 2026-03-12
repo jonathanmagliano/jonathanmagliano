@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="50%" height="50%" src="./code.gif" alt="codelife-lifecode">
-
 ## Hello, World!👋
+<img align="right" width="50%" height="50%" src="./code.gif" alt="codelife-lifecode">
 
 Jonathan<br/>
 Data Scientist | Data Analyst | Software Developer
