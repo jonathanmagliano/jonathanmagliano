@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 ## Hello, World!👋
 
-My name is Jonathan. I'm a Data Scientist & Data Analyst & Software Developer.
+Jonathan
+Data Scientist | Data Analyst | Software Developer
 
-I'm from Rio de Janeiro. I constantly strive to improve myself every day and on this journey I enjoy sharing ideas and knowledge. I like helping people, friends and communities, and I try to do this as much as possible.
-I really appreciate the concept of being in a constant process of personal and professional evolution. 🤔🔭
+Interested in the intersection of biotechnology, data science, artificial intelligence, and software development.
 
-I'm interested in biotechnology, software development, data science, artificial intelligence, sustainability and related fields.
+I enjoy exploring complex systems, transforming data into insights, and building practical solutions through scientific thinking and technology.
+
+Always learning, experimenting, and sharing knowledge.
 <br></br>
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white&link=https://kaggle.com/jonathanmagliano)](https://kaggle.com/jonathanmagliano)
@@ -31,15 +33,11 @@ I'm interested in biotechnology, software development, data science, artificial 
 <br>
 <div style="display: inline_block">
   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="John-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="John-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="John-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="John-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
 </br>
-  <img align="center" alt="John-Python-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-  <img align="center" alt="John-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
-  <img align="center" alt="John-Ruby-on-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="John-AWS" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/aws.svg">
   <img align="center" alt="John-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
